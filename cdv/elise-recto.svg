@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1488.189"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="recto.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 90.403 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="212.158 : 90.403 : 1"
+       inkscape:persp3d-origin="106.079 : 60.268667 : 1"
+       id="perspective2988" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 5.5739999 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="306.88501 : 5.5739999 : 1"
+       inkscape:persp3d-origin="153.4425 : 3.7159999 : 1"
+       id="perspective5360" />
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       id="SVGID_2_">
+      <rect
+         height="180.80499"
+         width="212.15601"
+         y="0"
+         x="0.001"
+         id="use2879" />
+    </clipPath>
+    <clipPath
+       id="SVGID_4_">
+      <rect
+         height="180.80499"
+         width="212.157"
+         id="use2887"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="SVGID_6_">
+      <rect
+         height="20.254"
+         width="28.082001"
+         y="112.828"
+         x="74.860001"
+         id="use2909" />
+    </clipPath>
+    <clipPath
+       id="SVGID_8_">
+      <rect
+         height="20.254999"
+         width="28.080999"
+         y="112.828"
+         x="74.860001"
+         id="use2917" />
+    </clipPath>
+    <clipPath
+       id="SVGID_10_">
+      <rect
+         height="22.132999"
+         width="28.629"
+         y="78.578003"
+         x="133.25101"
+         id="use2929" />
+    </clipPath>
+    <clipPath
+       id="SVGID_12_">
+      <rect
+         height="22.132999"
+         width="28.629999"
+         y="78.578003"
+         x="133.25101"
+         id="use2937" />
+    </clipPath>
+    <clipPath
+       id="SVGID_14_">
+      <rect
+         height="7.7849998"
+         width="46.808998"
+         y="63.167999"
+         x="78.079002"
+         id="use2949" />
+    </clipPath>
+    <clipPath
+       id="SVGID_16_">
+      <rect
+         height="7.7839999"
+         width="46.808998"
+         y="63.168999"
+         x="78.077003"
+         id="use2957" />
+    </clipPath>
+    <clipPath
+       id="SVGID_18_">
+      <rect
+         height="9.9610004"
+         width="23.617001"
+         y="29.832001"
+         x="76.281998"
+         id="use2969" />
+    </clipPath>
+    <clipPath
+       id="SVGID_20_">
+      <rect
+         height="9.96"
+         width="23.618999"
+         y="29.834"
+         x="76.283997"
+         id="use2977" />
+    </clipPath>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 90.403 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="212.158 : 90.403 : 1"
+       inkscape:persp3d-origin="106.079 : 60.268667 : 1"
+       id="perspective2988-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 5.5739999 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="306.88501 : 5.5739999 : 1"
+       inkscape:persp3d-origin="153.4425 : 3.7159999 : 1"
+       id="perspective5360-0" />
+    <inkscape:perspective
+       id="perspective10-6"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       id="SVGID_2_-2">
+      <rect
+         height="180.80499"
+         width="212.15601"
+         y="0"
+         x="0.001"
+         id="use2879-5" />
+    </clipPath>
+    <clipPath
+       id="SVGID_4_-8">
+      <rect
+         height="180.80499"
+         width="212.157"
+         id="use2887-4"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="SVGID_6_-2">
+      <rect
+         height="20.254"
+         width="28.082001"
+         y="112.828"
+         x="74.860001"
+         id="use2909-7" />
+    </clipPath>
+    <clipPath
+       id="SVGID_8_-0">
+      <rect
+         height="20.254999"
+         width="28.080999"
+         y="112.828"
+         x="74.860001"
+         id="use2917-8" />
+    </clipPath>
+    <clipPath
+       id="SVGID_10_-2">
+      <rect
+         height="22.132999"
+         width="28.629"
+         y="78.578003"
+         x="133.25101"
+         id="use2929-3" />
+    </clipPath>
+    <clipPath
+       id="SVGID_12_-3">
+      <rect
+         height="22.132999"
+         width="28.629999"
+         y="78.578003"
+         x="133.25101"
+         id="use2937-2" />
+    </clipPath>
+    <clipPath
+       id="SVGID_14_-6">
+      <rect
+         height="7.7849998"
+         width="46.808998"
+         y="63.167999"
+         x="78.079002"
+         id="use2949-8" />
+    </clipPath>
+    <clipPath
+       id="SVGID_16_-6">
+      <rect
+         height="7.7839999"
+         width="46.808998"
+         y="63.168999"
+         x="78.077003"
+         id="use2957-3" />
+    </clipPath>
+    <clipPath
+       id="SVGID_18_-3">
+      <rect
+         height="9.9610004"
+         width="23.617001"
+         y="29.832001"
+         x="76.281998"
+         id="use2969-7" />
+    </clipPath>
+    <clipPath
+       id="SVGID_20_-7">
+      <rect
+         height="9.96"
+         width="23.618999"
+         y="29.834"
+         x="76.283997"
+         id="use2977-9" />
+    </clipPath>
+    <clipPath
+       id="SVGID_6_-2-9">
+      <rect
+         height="20.254"
+         width="28.082001"
+         y="112.828"
+         x="74.860001"
+         id="use2909-7-8" />
+    </clipPath>
+    <clipPath
+       id="SVGID_8_-0-5">
+      <rect
+         height="20.254999"
+         width="28.080999"
+         y="112.828"
+         x="74.860001"
+         id="use2917-8-3" />
+    </clipPath>
+    <clipPath
+       id="SVGID_10_-2-6">
+      <rect
+         height="22.132999"
+         width="28.629"
+         y="78.578003"
+         x="133.25101"
+         id="use2929-3-0" />
+    </clipPath>
+    <clipPath
+       id="SVGID_12_-3-2">
+      <rect
+         height="22.132999"
+         width="28.629999"
+         y="78.578003"
+         x="133.25101"
+         id="use2937-2-0" />
+    </clipPath>
+    <clipPath
+       id="SVGID_14_-6-7">
+      <rect
+         height="7.7849998"
+         width="46.808998"
+         y="63.167999"
+         x="78.079002"
+         id="use2949-8-6" />
+    </clipPath>
+    <clipPath
+       id="SVGID_16_-6-2">
+      <rect
+         height="7.7839999"
+         width="46.808998"
+         y="63.168999"
+         x="78.077003"
+         id="use2957-3-6" />
+    </clipPath>
+    <clipPath
+       id="SVGID_18_-3-3">
+      <rect
+         height="9.9610004"
+         width="23.617001"
+         y="29.832001"
+         x="76.281998"
+         id="use2969-7-0" />
+    </clipPath>
+    <clipPath
+       id="SVGID_20_-7-9">
+      <rect
+         height="9.96"
+         width="23.618999"
+         y="29.834"
+         x="76.283997"
+         id="use2977-9-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath3654">
+      <rect
+         height="20.254"
+         width="28.082001"
+         y="112.828"
+         x="74.860001"
+         id="rect3656" />
+    </clipPath>
+    <clipPath
+       id="clipPath3658">
+      <rect
+         height="20.254999"
+         width="28.080999"
+         y="112.828"
+         x="74.860001"
+         id="rect3660" />
+    </clipPath>
+    <clipPath
+       id="clipPath3662">
+      <rect
+         height="22.132999"
+         width="28.629"
+         y="78.578003"
+         x="133.25101"
+         id="rect3664" />
+    </clipPath>
+    <clipPath
+       id="clipPath3666">
+      <rect
+         height="22.132999"
+         width="28.629999"
+         y="78.578003"
+         x="133.25101"
+         id="rect3668" />
+    </clipPath>
+    <clipPath
+       id="clipPath3670">
+      <rect
+         height="7.7849998"
+         width="46.808998"
+         y="63.167999"
+         x="78.079002"
+         id="rect3672" />
+    </clipPath>
+    <clipPath
+       id="clipPath3674">
+      <rect
+         height="7.7839999"
+         width="46.808998"
+         y="63.168999"
+         x="78.077003"
+         id="rect3676" />
+    </clipPath>
+    <clipPath
+       id="clipPath3678">
+      <rect
+         height="9.9610004"
+         width="23.617001"
+         y="29.832001"
+         x="76.281998"
+         id="rect3680" />
+    </clipPath>
+    <clipPath
+       id="clipPath3682">
+      <rect
+         height="9.96"
+         width="23.618999"
+         y="29.834"
+         x="76.283997"
+         id="rect3684" />
+    </clipPath>
+    <clipPath
+       id="clipPath3686">
+      <rect
+         height="20.254"
+         width="28.082001"
+         y="112.828"
+         x="74.860001"
+         id="rect3688" />
+    </clipPath>
+    <clipPath
+       id="clipPath3690">
+      <rect
+         height="20.254999"
+         width="28.080999"
+         y="112.828"
+         x="74.860001"
+         id="rect3692" />
+    </clipPath>
+    <clipPath
+       id="clipPath3694">
+      <rect
+         height="22.132999"
+         width="28.629"
+         y="78.578003"
+         x="133.25101"
+         id="rect3696" />
+    </clipPath>
+    <clipPath
+       id="clipPath3698">
+      <rect
+         height="22.132999"
+         width="28.629999"
+         y="78.578003"
+         x="133.25101"
+         id="rect3700" />
+    </clipPath>
+    <clipPath
+       id="clipPath3702">
+      <rect
+         height="7.7849998"
+         width="46.808998"
+         y="63.167999"
+         x="78.079002"
+         id="rect3704" />
+    </clipPath>
+    <clipPath
+       id="clipPath3706">
+      <rect
+         height="7.7839999"
+         width="46.808998"
+         y="63.168999"
+         x="78.077003"
+         id="rect3708" />
+    </clipPath>
+    <clipPath
+       id="clipPath3710">
+      <rect
+         height="9.9610004"
+         width="23.617001"
+         y="29.832001"
+         x="76.281998"
+         id="rect3712" />
+    </clipPath>
+    <clipPath
+       id="clipPath3714">
+      <rect
+         height="9.96"
+         width="23.618999"
+         y="29.834"
+         x="76.283997"
+         id="rect3716" />
+    </clipPath>
+    <clipPath
+       id="clipPath3718">
+      <rect
+         height="20.254"
+         width="28.082001"
+         y="112.828"
+         x="74.860001"
+         id="rect3720" />
+    </clipPath>
+    <clipPath
+       id="clipPath3722">
+      <rect
+         height="20.254999"
+         width="28.080999"
+         y="112.828"
+         x="74.860001"
+         id="rect3724" />
+    </clipPath>
+    <clipPath
+       id="clipPath3726">
+      <rect
+         height="22.132999"
+         width="28.629"
+         y="78.578003"
+         x="133.25101"
+         id="rect3728" />
+    </clipPath>
+    <clipPath
+       id="clipPath3730">
+      <rect
+         height="22.132999"
+         width="28.629999"
+         y="78.578003"
+         x="133.25101"
+         id="rect3732" />
+    </clipPath>
+    <clipPath
+       id="clipPath3734">
+      <rect
+         height="7.7849998"
+         width="46.808998"
+         y="63.167999"
+         x="78.079002"
+         id="rect3736" />
+    </clipPath>
+    <clipPath
+       id="clipPath3738">
+      <rect
+         height="7.7839999"
+         width="46.808998"
+         y="63.168999"
+         x="78.077003"
+         id="rect3740" />
+    </clipPath>
+    <clipPath
+       id="clipPath3742">
+      <rect
+         height="9.9610004"
+         width="23.617001"
+         y="29.832001"
+         x="76.281998"
+         id="rect3744" />
+    </clipPath>
+    <clipPath
+       id="clipPath3746">
+      <rect
+         height="9.96"
+         width="23.618999"
+         y="29.834"
+         x="76.283997"
+         id="rect3748" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.73708014"
+     inkscape:cx="704.70285"
+     inkscape:cy="474.67405"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1276"
+     inkscape:window-height="775"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       orientation="1,0"
+       position="232.33508,1016.2135"
+       id="guide3591" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="557.6042,989.94949"
+       id="guide3593" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="880.85301,983.88857"
+       id="guide3595" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1206.1221,888.93423"
+       id="guide3597" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="379.81735,935.40125"
+       id="guide3599" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="132.85714,713.57142"
+       id="guide3601" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="652.55854,513.15749"
+       id="guide3603" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="658.61945,301.02546"
+       id="guide3605" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="557.6042,88.893423"
+       id="guide3607" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2.988066e-5)">
+    <rect
+       transform="matrix(1.226398,0,0,1.2957412,813.99162,-34.401787)"
+       y="-261.92352"
+       x="-951.42859"
+       height="162.85715"
+       width="260"
+       id="rect3613"
+       style="opacity:0.93000034;color:#000000;fill:none;stroke:#000000;stroke-width:1.586555;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       transform="matrix(1.226398,0,0,1.2957412,691.71465,-273.1429)"
+       y="-261.92352"
+       x="-951.42859"
+       height="162.85715"
+       width="260"
+       id="rect3615"
+       style="opacity:0.93000034;color:#000000;fill:none;stroke:#000000;stroke-width:1.586555;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.93000034;color:#000000;fill:none;stroke:#000000;stroke-width:1.586555;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3609"
+       width="260"
+       height="162.85715"
+       x="-951.42859"
+       y="-261.92352"
+       transform="matrix(1.226398,0,-0.2046888,1.2957412,671.43687,-484.28508)"
+       inkscape:transform-center-x="-176.09925"
+       inkscape:transform-center-y="-105.51036" />
+    <rect
+       transform="matrix(1.226398,0,0,2.6234414,308.60114,-44.88896)"
+       y="-261.92352"
+       x="-951.42859"
+       height="162.85715"
+       width="260"
+       id="rect5207"
+       style="opacity:0.93000034;color:#000000;fill:none;stroke:#000000;stroke-width:1.11500955;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       transform="matrix(0.59335035,0,0,1.2957412,136.57708,241.37522)"
+       y="-261.92352"
+       x="-951.42859"
+       height="162.85715"
+       width="260"
+       id="rect3611"
+       style="opacity:0.93000034;color:#000000;fill:none;stroke:#000000;stroke-width:2.28094745;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.93000034;color:#000000;fill:none;stroke:#000000;stroke-width:2.28094745;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5205"
+       width="260"
+       height="162.85715"
+       x="-951.42859"
+       y="-261.92352"
+       transform="matrix(0.59335035,-0.12044126,0,1.2957412,290.62534,127.19849)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:LMMono10;-inkscape-font-specification:Sans Italic"
+       x="1234.2856"
+       y="-200.49496"
+       id="text4136"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-2.988066e-5)"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="1234.2856"
+         y="-200.49496" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="logo">
+    <image
+       id="image4636"
+       xlink:href="/mnt/usb/cdv/dessins/1-b.png"
+       height="794"
+       width="722"
+       transform="matrix(0.2479436,0,0,0.2479436,171.67408,714.23615)"
+       sodipodi:absref="/mnt/usb/cdv/dessins/1-b.png" />
+    <image
+       id="image4647"
+       xlink:href="/mnt/usb/cdv/dessins/4-b.png"
+       height="1139"
+       width="700"
+       transform="matrix(0.30292995,0,0,0.30292995,449.16288,602.7755)"
+       sodipodi:absref="/mnt/usb/cdv/dessins/4-b.png" />
+    <image
+       id="image4658"
+       xlink:href="/mnt/usb/cdv/dessins/5-b.png"
+       height="820"
+       width="800"
+       transform="matrix(0.27997283,0,0,0.27997283,1075.7415,631.41104)"
+       sodipodi:absref="/mnt/usb/cdv/dessins/5-b.png" />
+    <image
+       id="image4669"
+       xlink:href="/mnt/usb/cdv/dessins/14-b.png"
+       height="802"
+       width="744"
+       transform="matrix(0.2479436,0,0,0.2479436,795.58788,78.195004)"
+       sodipodi:absref="/mnt/usb/cdv/dessins/14-b.png" />
+    <image
+       id="image4680"
+       xlink:href="/mnt/usb/cdv/dessins/22-b.png"
+       height="900"
+       width="684"
+       transform="matrix(0.2479436,0,0,0.2479436,164.26315,173.0871)"
+       sodipodi:absref="/mnt/usb/cdv/dessins/22-b.png" />
+    <image
+       id="image4691"
+       xlink:href="/mnt/usb/cdv/dessins/27-b.png"
+       height="1008"
+       width="851"
+       transform="matrix(0.2479436,0,0,0.2479436,1069.5919,369.36399)"
+       sodipodi:absref="/mnt/usb/cdv/dessins/27-b.png" />
+    <image
+       id="image4702"
+       xlink:href="/mnt/usb/cdv/dessins/30-b.png"
+       height="766"
+       width="472"
+       transform="matrix(0.35238224,0,0,0.35238224,462.16234,108.13088)"
+       sodipodi:absref="/mnt/usb/cdv/dessins/30-b.png" />
+    <image
+       id="image4739"
+       xlink:href="/mnt/usb/cdv/dessins/6-b.png"
+       height="314"
+       width="800"
+       transform="matrix(0.40408808,0,0,0.40408808,380.35439,475.45478)"
+       sodipodi:absref="/mnt/usb/cdv/dessins/6-b.png" />
+    <image
+       id="image4750"
+       xlink:href="/mnt/usb/cdv/dessins/8-b.png"
+       height="773"
+       width="400"
+       transform="matrix(0.42738198,0,0,0.42738198,816.62681,308.35398)"
+       sodipodi:absref="/mnt/usb/cdv/dessins/8-b.png" />
+    <image
+       id="image4761"
+       xlink:href="/mnt/usb/cdv/dessins/13-b.png"
+       height="424"
+       width="722"
+       transform="matrix(0.36058341,0,0,0.34678899,787.26021,689.68439)"
+       sodipodi:absref="/mnt/usb/cdv/dessins/13-b.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="texte">
+    <text
+       transform="translate(726.25419,-118.43472)"
+       sodipodi:linespacing="125%"
+       id="text3931"
+       y="346.64789"
+       x="-85"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+       xml:space="preserve"><tspan
+         y="346.64789"
+         x="-85"
+         id="tspan3933"
+         sodipodi:role="line"
+         style="font-weight:bold">Carmelo Iannuzzo</tspan><tspan
+         id="tspan3935"
+         y="362.89789"
+         x="-85"
+         sodipodi:role="line" /><tspan
+         id="tspan3937"
+         y="379.54364"
+         x="-85"
+         sodipodi:role="line">carmelo@acsr.be</tspan><tspan
+         id="tspan3939"
+         y="395.79364"
+         x="-85"
+         sodipodi:role="line" /><tspan
+         id="tspan3941"
+         y="412.04364"
+         x="-85"
+         sodipodi:role="line">Délégué d’administration</tspan><tspan
+         id="tspan3943"
+         y="428.29364"
+         x="-85"
+         sodipodi:role="line">et de production</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+       x="-85"
+       y="346.64789"
+       id="text4705"
+       sodipodi:linespacing="125%"
+       transform="translate(1089.0752,-157.93463)"><tspan
+         sodipodi:role="line"
+         id="tspan4707"
+         x="-85"
+         y="346.64789"
+         style="font-weight:bold">Clémentine Delahaut</tspan><tspan
+         sodipodi:role="line"
+         x="-85"
+         y="362.89789"
+         id="tspan4709" /><tspan
+         sodipodi:role="line"
+         x="-85"
+         y="379.14789"
+         id="tspan4711">clementine@acsr.be</tspan><tspan
+         sodipodi:role="line"
+         x="-85"
+         y="395.39789"
+         id="tspan4713" /><tspan
+         sodipodi:role="line"
+         x="-85"
+         y="411.64789"
+         id="tspan4715">Déléguée de communication</tspan><tspan
+         id="tspan4717"
+         sodipodi:role="line"
+         x="-85"
+         y="427.89789">et diffusion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+       x="-85"
+       y="346.64789"
+       id="text4764"
+       sodipodi:linespacing="125%"
+       transform="translate(448.85893,-44.2197)"><tspan
+         id="tspan4766"
+         sodipodi:role="line"
+         x="-85"
+         y="346.64789">atelier@acsr.be</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+       x="-85"
+       y="346.64789"
+       id="text4768"
+       sodipodi:linespacing="125%"
+       transform="translate(792.23342,129.69725)"><tspan
+         id="tspan4770"
+         sodipodi:role="line"
+         x="-85"
+         y="346.64789">atelier@acsr.be</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+       x="-85"
+       y="346.64789"
+       id="text4772"
+       sodipodi:linespacing="125%"
+       transform="translate(743.17992,366.04592)"><tspan
+         id="tspan4774"
+         sodipodi:role="line"
+         x="-85"
+         y="346.64789">atelier@acsr.be</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+       x="-85"
+       y="346.64789"
+       id="text4776"
+       sodipodi:linespacing="125%"
+       transform="translate(1046.4197,350.43798)"><tspan
+         id="tspan4778"
+         sodipodi:role="line"
+         x="-85"
+         y="346.64789">atelier@acsr.be</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+       x="-85"
+       y="346.64789"
+       id="text3146"
+       sodipodi:linespacing="125%"
+       transform="translate(350.75194,137.44519)"><tspan
+         id="tspan3148"
+         sodipodi:role="line"
+         x="-85"
+         y="346.64789">atelier@acsr.be</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+       x="-85"
+       y="346.64789"
+       id="text3150"
+       sodipodi:linespacing="125%"
+       transform="translate(435.10214,372.36441)"><tspan
+         id="tspan3152"
+         sodipodi:role="line"
+         x="-85"
+         y="346.64789">atelier@acsr.be</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+       x="-85"
+       y="346.64789"
+       id="text3154"
+       sodipodi:linespacing="125%"
+       transform="translate(1072.0643,140.59847)"><tspan
+         id="tspan3156"
+         sodipodi:role="line"
+         x="-85"
+         y="346.64789">atelier@acsr.be</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+       x="-85"
+       y="346.64789"
+       id="text3158"
+       sodipodi:linespacing="125%"
+       transform="translate(833.99183,522.14513)"><tspan
+         id="tspan3160"
+         sodipodi:role="line"
+         x="-85"
+         y="346.64789">atelier@acsr.be</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+       x="-85"
+       y="346.64789"
+       id="text3162"
+       sodipodi:linespacing="125%"
+       transform="translate(1073.641,586.78733)"><tspan
+         id="tspan3164"
+         sodipodi:role="line"
+         x="-85"
+         y="346.64789">atelier@acsr.be</tspan></text>
+    <text
+       transform="translate(378.34313,552.10127)"
+       sodipodi:linespacing="125%"
+       id="text4347"
+       y="346.64789"
+       x="-85"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Univers Else;-inkscape-font-specification:Univers Else"
+       xml:space="preserve"><tspan
+         y="346.64789"
+         x="-85"
+         sodipodi:role="line"
+         id="tspan4767">atelier@acsr.be</tspan></text>
+    <image
+       id="image5052"
+       xlink:href="/mnt/usb/cdv/dessins/10-b.png"
+       height="597"
+       width="700"
+       transform="matrix(-0.36483967,0,0,-0.36483967,964.88914,1073.3737)"
+       sodipodi:absref="/mnt/usb/cdv/dessins/10-b.png" />
+  </g>
+</svg>
